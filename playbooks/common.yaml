@@ -15,4 +15,4 @@
       - mlocate
       - bind-utils
       - telnet
-      - epel-release
+      - epel-releas
